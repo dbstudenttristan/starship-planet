@@ -1,0 +1,1 @@
+my_sprite.image
